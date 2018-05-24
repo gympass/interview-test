@@ -58,8 +58,8 @@ Não obrigatório. Faça apenas caso se identifique com o problema ou se achar q
 SOLUÇÃO
 =======
 * Seja criativo;
-* Explore ao máximo a orientação a objetos;
-* Crie testes unitários e tente usar TDD;
+* Uma outra pessoa estará lendo o que você fez, portanto, lembre-se de buscar trazer a semântica do problema no seu código;
+* Crie testes;
 * Não é necessário utilizar nenhum framework, procure utilizar os recursos da linguagem;
 
 
