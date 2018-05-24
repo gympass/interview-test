@@ -57,6 +57,7 @@ Não obrigatório. Faça apenas caso se identifique com o problema ou se achar q
 
 SOLUÇÃO
 =======
+* A solução poderá ser desenvolvida em qualquer linguagem da sua escolha;
 * Seja criativo;
 * Uma outra pessoa estará lendo o que você fez, portanto, lembre-se de buscar trazer a semântica do problema no seu código;
 * Crie testes;
