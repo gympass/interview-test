@@ -66,8 +66,8 @@ GOSTARÍAMOS DE VER
 ==================
 * Clean code;
 * Imutabilidade (quando possível);
-* Tratamento de Erro;
-* Separação de clara de responsabilidades (Domínios, Serviços, Repositórios, etc);
+* Tratamento de Erros;
+* Separação clara de responsabilidades (Domínios, Serviços, Repositórios, etc);
 * Testes;
 
 ENTREGA
