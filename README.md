@@ -68,7 +68,7 @@ GOSTARÍAMOS DE VER
 * Imutabilidade (quando possível);
 * Tratamento de Erros;
 * Separação clara de responsabilidades (Domínios, Serviços, Repositórios, etc);
-* Testes;
+* Testes necessários para manter a qualidade do seu código;
 
 ENTREGA
 =======
